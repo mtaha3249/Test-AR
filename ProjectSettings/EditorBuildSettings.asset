@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Image Tracking/Scene/Image Tracking.unity
+    guid: 02db9dad1fb0742e39cc4785955d7771
+  - enabled: 1
+    path: Assets/Plane Detection/Scenes/Plane Detection.unity
+    guid: 5bb121ddf25f24359acb0fa9d6377106
+  - enabled: 1
+    path: Assets/Tap To Place/Scene/Tap To Place.unity
+    guid: 01ec7c6f911a344d8815ad7cfe9ec21e
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: f56edb4da09de425f847ffa68fb58028, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c4c17e150a945458e91ef7a0aab588bf, type: 2}
